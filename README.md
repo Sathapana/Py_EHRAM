@@ -18,8 +18,6 @@ file).
 - **[Architecture & reference](docs/architecture.md)** — the pipeline, design
   diagrams, the bit-packed parameter encoding, the symmetry logic, and a
   per-module reference.
-- **`erham.txt`** (project root) — the original Fortran user manual; the
-  authoritative input-format specification.
 
 ## Requirements
 
